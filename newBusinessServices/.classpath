@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.csc.fs.accel.builders.ACCEL_RUNTIME"/>
+	<classpathentry kind="con" path="com.ibm.wtp.server.java.core.container/com.ibm.ws.ast.st.runtime.core.runtimeTarget.v60/was.base.v6"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/com.ibm.ws.ast.st.runtime.runtimeTarget.v61/was.base.v61"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=".apt_generated">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Spring project/Training Session/spring-boot-microservices/nba-cv-service/lib/newBusinessVO.jar"/>
+	<classpathentry kind="lib" path="D:/Spring project/Training Session/spring-boot-microservices/nba-cv-service/lib/productModel.jar"/>
+	<classpathentry kind="lib" path="D:/Spring project/Training Session/spring-boot-microservices/nba-cv-service/lib/productVO.jar"/>
+	<classpathentry kind="lib" path="D:/Spring project/Training Session/spring-boot-microservices/nba-cv-service/lib/workflowVO.jar"/>
+	<classpathentry kind="lib" path="D:/Spring project/Training Session/spring-boot-microservices/nba-cv-service/lib/AccelCORE.jar"/>
+	<classpathentry kind="lib" path="D:/Spring project/Training Session/spring-boot-microservices/nba-cv-service/lib/AccelOM.jar"/>
+	<classpathentry kind="lib" path="D:/Spring project/Training Session/spring-boot-microservices/nba-cv-service/lib/AccelService.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
